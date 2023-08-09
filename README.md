@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JpPjJp
-- 👀 I’m interested in ... python, godot and data science
+- 👀 I’m interested in ... python, godot
 - 🌱 I’m currently learning ... python / godot
-- 📫 How to reach me ... on Discord! (jppjjp#0516)
 
 <!---
 JpPjJp/JpPjJp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
